@@ -8,7 +8,6 @@ import br.com.cotemig.zeplinrecliclerview.R
 import br.com.cotemig.zeplinrecliclerview.models.Tutorial
 import br.com.cotemig.zeplinrecliclerview.ui.adapters.AdapterTutorial
 import kotlinx.android.synthetic.main.activity_main.*
-import kotlinx.android.synthetic.main.item_tutorial.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -20,15 +19,15 @@ class MainActivity : AppCompatActivity() {
 
         val listTutorial: List<Tutorial> = listOf(
             Tutorial(
-                null,
+                R.drawable.undraw_add_to_cart_vkjp,
                 resources.getString(R.string.tutorial_main_1),
                 resources.getString(R.string.tutorial_sub_1)),
             Tutorial(
-                null,
+                R.drawable.undraw_successful_purchase_uyin_1,
                 resources.getString(R.string.tutorial_main_2),
                 resources.getString(R.string.tutorial_sub_2)),
             Tutorial(
-                null,
+                R.drawable.undraw_on_the_way_ldaq,
                 resources.getString(R.string.tutorial_main_3),
                 resources.getString(R.string.tutorial_sub_3))
         )
