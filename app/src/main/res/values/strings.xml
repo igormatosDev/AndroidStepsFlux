@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zeplin Recicler View</string>
+
+    <string name="tutorial_main_1">Choose Your Desire Product</string>
+    <string name="tutorial_sub_1">Contrary to popular belief, Lorem Ipsum is not simply random text</string>
+
+    <string name="tutorial_main_2">Complete your shopping</string>
+    <string name="tutorial_sub_2">Contrary to popular belief, Lorem Ipsum is not simply random text</string>
+
+    <string name="tutorial_main_3">Get product at your door</string>
+    <string name="tutorial_sub_3">Contrary to popular belief, Lorem Ipsum is not simply random text</string>
+
+</resources>
